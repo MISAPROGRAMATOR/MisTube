@@ -1,0 +1,95 @@
+{
+  "music": [
+    {
+      "id": "atc_all_around",
+      "title": "All Around The World (La La La)",
+      "artist": "ATC",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/ATC.-.All.Around.The.World.la.la.la.-.Dance.Compilation.g5lwnWUR_8U.mp4",
+      "tags": ["dance", "pop", "hudba"]
+    },
+    {
+      "id": "belong_together",
+      "title": "Belong Together (Sped Up)",
+      "artist": "Mark Ambor",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Belong.Together.Sped.Up.7Ts8s0VtR7M.mp4",
+      "tags": ["sped up", "pop", "hudba"]
+    },
+    {
+      "id": "everything_at_once",
+      "title": "Everything at Once",
+      "artist": "Lenka",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Everything.at.Once.VQg-gRjM_HU.mp4",
+      "tags": ["pop", "hudba"]
+    },
+    {
+      "id": "green_day_boulevard",
+      "title": "Boulevard Of Broken Dreams",
+      "artist": "Green Day",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Green.Day.-.Boulevard.Of.Broken.Dreams.Official.Music.Video.4K.Upgrade.Soa3gO7tL-c.mp4",
+      "tags": ["rock", "hudba"]
+    },
+    {
+      "id": "i_aint_worried",
+      "title": "I Ain't Worried",
+      "artist": "OneRepublic",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/I.Ain.t.Worried.-K9VwBEOI-Q.mp4",
+      "tags": ["pop", "hudba"]
+    },
+    {
+      "id": "naty_hrychova",
+      "title": "By se ti líbilo",
+      "artist": "Naty Hrychová",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Naty.Hrychova.-.By.se.ti.libilo.Official.videoklip.gEPYFjaVL_k.mp4",
+      "tags": ["pop", "hudba"]
+    },
+    {
+      "id": "pirates_piano",
+      "title": "Pirates Of The Caribbean (INSANE Piano Version)",
+      "artist": "Piano Cover",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Pirates.Of.The.Caribbean.INSANE.Piano.Version.Oe31WusyOAo.mp4",
+      "tags": ["piano", "soundtrack", "hudba"]
+    },
+    {
+      "id": "shape_of_you",
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Shape.of.You.xTvyyoF_LZY.mp4",
+      "tags": ["pop", "hudba"]
+    },
+    {
+      "id": "skillet_monster",
+      "title": "Monster",
+      "artist": "Skillet",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Skillet.-.Monster.Official.Video.1mjlM_RnsVE.mp4",
+      "tags": ["rock", "metal", "hudba"]
+    },
+    {
+      "id": "somebody_that_i_used_to_know",
+      "title": "Somebody That I Used To Know",
+      "artist": "Gotye",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Somebody.That.I.Used.To.Know.xOazTYPrt64.mp4",
+      "tags": ["pop", "hudba"]
+    },
+    {
+      "id": "sweet_chili",
+      "title": "Sweet Chili",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Sweet.Chili.hnIq7LJlWnw.mp4",
+      "tags": ["hudba"]
+    },
+    {
+      "id": "syndrom_ocd",
+      "title": "Syndrom OCD",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Syndrom.OCD.7BF9C69DXGM.mp4",
+      "tags": ["hudba"]
+    },
+    {
+      "id": "uptown_funk",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Uptown.Funk.tYvFa2ARD24.mp4",
+      "tags": ["funk", "pop", "hudba"]
+    }
+  ]
+}
