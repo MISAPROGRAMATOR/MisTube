@@ -1,6 +1,41 @@
 {
   "music": [
     {
+      "id": "01_predehra",
+      "title": "01. Předehra",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/01.Predehra.1499.mo4TZ_-REuk.mp4",
+      "tags": ["hudba"]
+    },
+    {
+      "id": "12_milovani",
+      "title": "12. Milování",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/12.Milovani.EowkwyU_aZw.mp4",
+      "tags": ["hudba"]
+    },
+    {
+      "id": "19_upiri_valcik",
+      "title": "19. Upíří valčík",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/19.Upiri.valcik.8lQ29Qp_Q5s.mp4",
+      "tags": ["hudba"]
+    },
+    {
+      "id": "26_stockers",
+      "title": "26. Stockers",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/26.Stockers.rNSOGM2inSI.mp4",
+      "tags": ["hudba"]
+    },
+    {
+      "id": "andilek",
+      "title": "Andílek",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Andilek.84jAZfqXdic.mp4",
+      "tags": ["hudba"]
+    },
+    {
       "id": "atc_all_around",
       "title": "All Around The World (La La La)",
       "artist": "ATC",
@@ -15,11 +50,46 @@
       "tags": ["sped up", "pop", "hudba"]
     },
     {
+      "id": "buldozerem",
+      "title": "Buldozerem",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Buldozerem.yRKCKRu_ZQ8.mp4",
+      "tags": ["hudba"]
+    },
+    {
+      "id": "cholerik",
+      "title": "Cholerik",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Cholerik.T5VChCC0Q6E.mp4",
+      "tags": ["hudba"]
+    },
+    {
+      "id": "dai_dai",
+      "title": "Dai Dai",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Dai.Dai.lFQdcPTTzSg.mp4",
+      "tags": ["hudba"]
+    },
+    {
+      "id": "ebenovy_hole",
+      "title": "Ebenové hole",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Ebenovy.hole.rT8Tf5rOsBE.mp4",
+      "tags": ["hudba"]
+    },
+    {
       "id": "everything_at_once",
       "title": "Everything at Once",
       "artist": "Lenka",
       "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Everything.at.Once.VQg-gRjM_HU.mp4",
       "tags": ["pop", "hudba"]
+    },
+    {
+      "id": "fyzika",
+      "title": "Fyzika",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Fyzika.7Qt7sAHRi1k.mp4",
+      "tags": ["hudba"]
     },
     {
       "id": "green_day_boulevard",
@@ -29,11 +99,39 @@
       "tags": ["rock", "hudba"]
     },
     {
+      "id": "hezky_rano",
+      "title": "Hezký ráno",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Hezky.rano.e5Jzka8-JZY.mp4",
+      "tags": ["hudba"]
+    },
+    {
       "id": "i_aint_worried",
       "title": "I Ain't Worried",
       "artist": "OneRepublic",
       "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/I.Ain.t.Worried.-K9VwBEOI-Q.mp4",
       "tags": ["pop", "hudba"]
+    },
+    {
+      "id": "ja_si_kopu_vlastni_hrob",
+      "title": "Já si kopu vlastní hrob",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Ja.si.kopu.vlastni.hrob.iRklo2KODwk.mp4",
+      "tags": ["hudba"]
+    },
+    {
+      "id": "jednou_nas_to_zabije",
+      "title": "Jednou nás to zabije",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Jednou.nas.to.zabije.mmxMxgJWeHQ.mp4",
+      "tags": ["hudba"]
+    },
+    {
+      "id": "matfyzak_na_discu",
+      "title": "Matfyzák na discu",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Matfyzak.na.discu.cyTcjqhgz2Q.mp4",
+      "tags": ["hudba"]
     },
     {
       "id": "naty_hrychova",
@@ -43,11 +141,32 @@
       "tags": ["pop", "hudba"]
     },
     {
+      "id": "orchidej",
+      "title": "Orchidej (feat. Renne Dang)",
+      "artist": "Renne Dang",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Orchidej.feat.Renne.Dang.ibn4VdRI0kM.mp4",
+      "tags": ["rap", "hudba"]
+    },
+    {
       "id": "pirates_piano",
       "title": "Pirates Of The Caribbean (INSANE Piano Version)",
       "artist": "Piano Cover",
       "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Pirates.Of.The.Caribbean.INSANE.Piano.Version.Oe31WusyOAo.mp4",
-      "tags": ["piano", "soundtrack", "hudba"]
+      "tags": ["soundtrack", "hudba"]
+    },
+    {
+      "id": "pistacie",
+      "title": "Pistácie (feat. Sofian Medjmedj)",
+      "artist": "Sofian Medjmedj",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Pistacie.feat.Sofian.Medjmedj.y9fwZvB84r8.mp4",
+      "tags": ["hudba"]
+    },
+    {
+      "id": "rio_grande",
+      "title": "Rio Grande (Ta co tancí s vlkem)",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Rio.Grande.Ta.co.tanci.s.vlkem.O-OTNCRgZKs.mp4",
+      "tags": ["hudba"]
     },
     {
       "id": "shape_of_you",
@@ -85,11 +204,60 @@
       "tags": ["hudba"]
     },
     {
+      "id": "tarantule_v_trenkach",
+      "title": "Tarantule v trenkách",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Tarantule.v.trenkach.UMjuhX3dJQI.mp4",
+      "tags": ["hudba"]
+    },
+    {
+      "id": "ucitel",
+      "title": "Učitel",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Ucitel.MyE3aQQeTII.mp4",
+      "tags": ["hudba"]
+    },
+    {
       "id": "uptown_funk",
       "title": "Uptown Funk",
       "artist": "Mark Ronson ft. Bruno Mars",
       "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Uptown.Funk.tYvFa2ARD24.mp4",
       "tags": ["funk", "pop", "hudba"]
+    },
+    {
+      "id": "virtuoz",
+      "title": "Virtuóz",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Virtuoz.UKh6qzyvabc.mp4",
+      "tags": ["hudba"]
+    },
+    {
+      "id": "vitej_mezi_nama",
+      "title": "Vítej mezi náma (feat. STEIN27)",
+      "artist": "STEIN27",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Vitej.mezi.nama.feat.STEIN27.ZiJWFrSJ7Gk.mp4",
+      "tags": ["rap", "hudba"]
+    },
+    {
+      "id": "vsechno_bude_jako_driv",
+      "title": "Všechno bude jako dřív",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Vsechno.bude.jako.driv.8hN_P3zq5Sg.mp4",
+      "tags": ["hudba"]
+    },
+    {
+      "id": "vysokej_standard",
+      "title": "Vysokej standard",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Vysokej.standard.UiAUlyJTtx0.mp4",
+      "tags": ["hudba"]
+    },
+    {
+      "id": "zkratky",
+      "title": "Zkratky",
+      "artist": "Neznámý",
+      "url": "https://github.com/MISAPROGRAMATOR/MisTube/releases/download/music/Zkratky.aoB3gip3DmM.mp4",
+      "tags": ["hudba"]
     }
   ]
 }
